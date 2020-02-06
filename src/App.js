@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import PhotoList from "./components/PhotoList";
 
 function App() {
   return (
@@ -7,8 +8,9 @@ function App() {
       <p>
         Read through the instructions in the README.md file to build your NASA
         app! Have fun 🚀!
-        // initial commit
+        {/* initial commit */}
       </p>
+      <PhotoList />
     </div>
   );
 }
