@@ -14,12 +14,7 @@ code {
     monospace;
 }
 
-.container {
-  /* background: lightgrey; */
-}
-
-.photo-card {
-  /* background: blue; */
+/* .photo-card {
   width: 80%;
   margin: 0 auto;
   display: flex;
@@ -31,5 +26,4 @@ code {
   margin: 0 auto;
   display: flex;
   justify-content: center;
-  /* background: grey; */
-}
+} */
